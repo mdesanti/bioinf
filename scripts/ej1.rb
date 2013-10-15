@@ -1,5 +1,4 @@
 require 'bio'
-require 'pry'
 
 INPUT_FILE_PATH = ARGV.first
 OUTPUT_FILE_PATH = ARGV.last
